@@ -3,9 +3,9 @@
  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-- I am Tahir! I am a curious, self-taught Front-End / Mobile App Developer with a background of 9-year Electronic Engineering experience. I Have dynamic learning experience on understanding & applying the Mobile App and Web development methodologies by using React Native and ReactJS.
+- I am Tahir! I am a curious, self-taught Front-End / with a background of 9-months IT experience. I Have dynamic learning experience on understanding & applying  Web development methodologies by using Django and ReactJS.
 
-- I am a detail-oriented and creative team player seeking to join a progressive and inclusive company to utilize my skills and work collaboratively across teams to develop feasible solutions. Bringing six years of experience in Electronic Engineering and four years of experience working with mobile and web app teams to build dynamic User Interfaces in fast-paced and agile environments.
+- I am a detail-oriented and creative team player seeking to join a progressive and inclusive company to utilize my skills and work collaboratively across teams to develop feasible solutions. 
 
 📫 How to reach me: <a href="mailto: tahiraydin06@.com">tahiraydin06@gmail.com</a>
 <div>
